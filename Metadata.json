@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 3598,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/connect-to-an-azure-vm-in-the-azure-china-cloud/master/Connect-VM-China.ps1",
+    "DownloadCount": 714,
+    "Id": "Connect-to-an-Azure-VM-in-9576fe4a",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 403,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-10-28T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook sets up a connection to an Azure VM in the Azure China cloud. The VM must have Windows Remote Management enabled. It connects to the Azure subscription and then imports the certificate used for the Azure VM so remote PowerShell calls can be made.",
+    "Title": "Connect to an Azure VM in the Azure China cloud",
+    "UpdatedDate": "2015-11-3T00:00:00",
+    "Url": "https://github.com/azureautomation/connect-to-an-azure-vm-in-the-azure-china-cloud",
+    "UserTags": "Windows Azure Virtual Machines, VM Lifecycle Management, Azure China"
+}
